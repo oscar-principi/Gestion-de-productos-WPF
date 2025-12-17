@@ -1,0 +1,17 @@
+﻿<Window x:Class="AMBL_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sistema Integral AMBL"
+        Height="650"
+        Width="1100"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent">
+
+    <Grid Background="Transparent">
+
+        <Frame x:Name="MainFrame"
+               Background="Transparent"
+               NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>
