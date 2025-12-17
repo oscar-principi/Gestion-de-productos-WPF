@@ -7,12 +7,10 @@ Sistema de gestion de productos (ABML y busqueda) realizado con WFP y T-SQL(proc
 Arquitectura en 4 capasm Acceso a datos, Dominio con modelos, Servicios de entidades, y vistas. 
 
 #Diseño:
-Medologogia DataBaseFirst |
-Ingenieria inversa - Scaffold
+Diseñado y modelado con T-SQL | Medologogia DataBaseFirst | Ingenieria inversa - Scaffold con Entity Framework
 
 #Herramientas:
-Visual Studio Community 2026 |
-SQL Server Management Studio 22
+Visual Studio Community | SQL Server Management Studio 
 
 <img width="1083" height="608" alt="image" src="https://github.com/user-attachments/assets/4d3e2bd9-49c5-445b-94e6-73cb877fefff" />
 
