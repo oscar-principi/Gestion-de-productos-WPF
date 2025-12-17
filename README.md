@@ -3,6 +3,9 @@
 #Descripcion:
 Sistema de gestion de productos (ABML y busqueda) realizado con WFP y T-SQL(procedimientos almacenados).
 
+#Arquitectura
+Arquitectura en 4 capasm Acceso a datos, Dominio con modelos, Servicios de entidades, y vistas. 
+
 #Diseño:
 Medologogia DataBaseFirst |
 Ingenieria inversa - Scaffold
