@@ -1,14 +1,14 @@
 # Gestion-de-productos-WPF
 
-#Descripcion
+#Descripcion:
 Sistema de gestion de productos realizado con WFP y T-SQL(procedimientos almacenados).
 
-#Diseño
-Medologogia DataBaseFirst
+#Diseño:
+Medologogia DataBaseFirst |
 Ingenieria inversa - Scaffold
 
-#Herramientas
-Visual Studio Community 2026
+#Herramientas:
+Visual Studio Community 2026 |
 SQL Server Management Studio 22
 
 <img width="1083" height="608" alt="image" src="https://github.com/user-attachments/assets/4d3e2bd9-49c5-445b-94e6-73cb877fefff" />
