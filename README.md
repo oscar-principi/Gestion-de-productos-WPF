@@ -1,7 +1,7 @@
 # Gestion-de-productos-WPF
 
 #Descripcion:
-Sistema de gestion de productos realizado con WFP y T-SQL(procedimientos almacenados).
+Sistema de gestion de productos (ABML y busqueda) realizado con WFP y T-SQL(procedimientos almacenados).
 
 #Diseño:
 Medologogia DataBaseFirst |
@@ -18,3 +18,5 @@ SQL Server Management Studio 22
 <img width="1076" height="610" alt="image" src="https://github.com/user-attachments/assets/9f7d7af2-eafe-4704-b511-740564c214b9" />
 
 <img width="1076" height="602" alt="image" src="https://github.com/user-attachments/assets/eea304cc-f764-4235-98d9-8d43352defb5" />
+
+<img width="1075" height="609" alt="image" src="https://github.com/user-attachments/assets/ec6eb0bb-0566-4618-b43e-00bfacabe91d" />
