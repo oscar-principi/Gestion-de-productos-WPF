@@ -1,7 +1,7 @@
-# Gestion-de-productos-WPF
+# Gestion de productos - WPF
 
 #Descripcion:
-Sistema de gestion de productos (ABML y busqueda) realizado con WFP y T-SQL(procedimientos almacenados).
+Sistema de gestion de productos (ABML y busqueda) realizado con WPF y T-SQL(procedimientos almacenados).
 
 #Arquitectura:
 Arquitectura en 4 capas: Acceso a datos, Dominio con modelos, Servicios de entidades, y Vistas. 
