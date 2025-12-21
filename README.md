@@ -5,13 +5,13 @@ Sistema integral de escritorio para la administración de productos, permitiendo
 🏗️ Arquitectura del Software
 El proyecto se basa en una Arquitectura en 4 Capas para garantizar la escalabilidad y el mantenimiento:
 
-Capa de Presentación (Vistas): Desarrollada con WPF (Windows Presentation Foundation) para una interfaz de usuario moderna y reactiva.
+Capa de Presentación (Vistas): Desarrollada con WPF (Windows Presentation Foundation).
 
 Capa de Servicios de Entidades: Contiene la lógica de negocio y coordina la comunicación entre la UI y los datos.
 
-Capa de Dominio: Definición de los modelos de datos y objetos de negocio.
+Capa de Dominio: Definición de los modelos de objetos de negocio.
 
-Capa de Acceso a Datos: Gestión de la conexión con la base de datos y ejecución de comandos.
+Capa de Acceso a Datos: Gestión de la conexión con la base de datos.
 
 🛠️ Especificaciones Técnicas
 Diseño de Base de Datos: Modelado en T-SQL siguiendo la metodología Database First.
@@ -20,14 +20,15 @@ Persistencia: Implementación de Entity Framework mediante ingeniería inversa (
 
 Lógica de Datos: Uso de Procedimientos Almacenados en T-SQL para optimizar el rendimiento y la seguridad de las consultas.
 
-Herramientas: * Visual Studio Community.
+Herramientas: Visual Studio Community.
 
 SQL Server Management Studio (SSMS).
 
-🚀 Funcionalidades Clave
+🚀 Funcionalidades:
+
 Gestión completa de productos (CRUD).
 
-Motor de búsqueda dinámico por múltiples criterios.
+Busqueda de productos.
 
 Integración directa con procedimientos almacenados para transacciones.
 
