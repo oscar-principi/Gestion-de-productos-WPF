@@ -1,6 +1,6 @@
 Sistema de Gestión de Productos (WPF)
 
-Sistema integral de escritorio para la administración de productos, permitiendo operaciones ABML (Alta, Baja, Modificación y Lectura) y búsquedas avanzadas. El proyecto destaca por una implementación sólida de lógica de negocio y persistencia de datos profesional.
+Sistema integral de escritorio para la administración de productos, permitiendo operaciones ABML (Alta, Baja, Modificación y Lectura) y búsquedas. 
 
 🏗️ Arquitectura del Software
 El proyecto se basa en una Arquitectura en 4 Capas para garantizar la escalabilidad y el mantenimiento:
