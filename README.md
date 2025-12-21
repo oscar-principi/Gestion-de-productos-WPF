@@ -1,4 +1,4 @@
-Sistema de Gestión de Productos (WPF)
+Sistema de Gestión de Productos (WPF) App Escritorio
 
 Sistema integral de escritorio para la administración de productos, permitiendo operaciones ABML (Alta, Baja, Modificación y Lectura) y búsquedas. 
 
